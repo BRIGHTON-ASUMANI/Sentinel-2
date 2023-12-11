@@ -40,3 +40,16 @@ if __name__ == "__main__":
 
     # Call the function to calculate statistics
     calculate_statistics(image_path)
+    
+# Sample output
+
+# Metadata of the image:
+# {'driver': 'JP2OpenJPEG', 'dtype': 'uint16', 'nodata': None, 'width': 5490, 'height': 5490, 'count': 1, 'crs': CRS.from_epsg(32636), 'transform': Affine(20.0, 0.0, 600000.0,
+#        0.0, -20.0, 100020.0)}
+
+# Statistics for the image band:
+# Min: 47
+# Max: 199
+# Mean: 106.66590993394182
+# Median: 108.0
+# Standard Deviation: 8.283675389113222
