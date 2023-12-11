@@ -52,3 +52,9 @@ if __name__ == "__main__":
 
     # Call the function to perform the clipping and metadata addition
     clip_image_with_metadata(source_image_path, geojson_path, output_image_path)
+    
+# GeoJSON file path: /home/brighton/pp/Sentinel-2/scripts/region_of_interest.geojson
+# Image successfully clipped.
+# Clipped image saved to /home/brighton/pp/Sentinel-2/clipped_image/test.jp2
+
+
