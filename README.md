@@ -1,6 +1,7 @@
 # Sentinel-2
 
 # Zonal Statistics Calculation and Database Update
+![Screenshot from 2023-12-11 15-46-08](https://github.com/BRIGHTON-ASUMANI/Sentinel-2/assets/36225890/e779073d-47f8-45e4-a864-04931cc05022)
 
 This Python script performs zonal statistics calculation on raster images, adds calculated indices as bands to the original image, and updates the PostgreSQL database with the results.
 
